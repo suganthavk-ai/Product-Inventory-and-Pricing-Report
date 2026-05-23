@@ -17,16 +17,18 @@ The Product Inventory and Pricing Report is an Excel-based project designed to a
   • Knowledge of Excel formula
 
 # Dataset Description
-|Product ID| -	|Unique identifier assigned to each product|
-|Product Name| -	|Name of the product|
-|Brand Name| -	|Brand or manufacturer name|
-|Price ($)| -	|Price of the product in USD|
-|Quantity| -	|Number of units available or sold|
-|Category|	- |Product category|
-|Price Range	|- |High Price or Standard Price classification|
-|Day| - |Day of the record|
-|Country code| -	|Country abbreviation|
-|Month| -	|Month of the record|
+|Column Name | Description|
+|----|---------|
+|Product ID|Unique identifier assigned to each product|
+|Product Name|Name of the product|
+|Brand Name|Brand or manufacturer name|
+|Price ($)|Price of the product in USD|
+|Quantity |Number of units available or sold|
+|Category|Product category|
+|Price Range	|High Price or Standard Price classification|
+|Day|Day of the record|
+|Country code|Country abbreviation|
+|Month | Month of the record|
 
 # Installation
 1. Download the dataset file.
